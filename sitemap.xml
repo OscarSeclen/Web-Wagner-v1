@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on Ene 23, 2026 at 16:54 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on Ene 27, 2026 at 16:58 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -9,7 +9,7 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-01-23T21:30:56+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-01-27T21:56:48+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/portfolios-sitemap.xml]]></loc>
