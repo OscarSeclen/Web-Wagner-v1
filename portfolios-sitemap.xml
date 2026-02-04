@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on Feb 3, 2026 at 09:28 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on Feb 4, 2026 at 12:32 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
@@ -8,8 +8,178 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
+		<loc><![CDATA[/portfolios/share-spark/]]></loc>
+		<lastmod><![CDATA[2026-02-04T17:25:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_IA-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/IA_portada_principal.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-AI-EL-RENDER-MALDITO.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADAS-PORTAFOLIO-SERVICIOS.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/portfolios/random-risk/]]></loc>
+		<lastmod><![CDATA[2026-02-04T17:03:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_Apps-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_4_2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-199673261.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_3_2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_6_2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036091890.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-176343593.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/11/stock-photo-1040234435.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_slide_3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/blurred-silhouette-man-looking-aside_most-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/cement-street-financial-downtown-shanghai-travel.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036415740.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/back-view-content-creator-working-home-office-during-night-time-video-editor-home-office-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2026/02/QUIZ.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2026/01/pngwing.com_.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2026/01/dd9b9318-948a-42fe-9258-f27410604da3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2026/01/01J0C7J2SKNNWEEKX67ZXET35A.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_4.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_6.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_7.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_9.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_5.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_2.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/portfolios/stream-shop/]]></loc>
+		<lastmod><![CDATA[2026-02-03T21:33:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_VRX-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://theme.madsparrow.me/most/wp-content/uploads/2022/10/most_slide_1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/1212.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/1802.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/114.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-VIRTUAL-.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-AUMENTADA-.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-ASISTENTE-VIRTUAL.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc><![CDATA[/portfolios/freezing-birthday/]]></loc>
-		<lastmod><![CDATA[2026-02-03T14:20:12+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-02-03T17:25:17+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -70,161 +240,35 @@
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-CORPORATIVO-HUANZA.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-CORPORATIVO-.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-INDUCCION-.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-CAPACITACION-.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-EVENTO.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/portfolios/share-spark/]]></loc>
-		<lastmod><![CDATA[2026-01-30T15:11:40+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_IA-1.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-EVENTOS.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036091890.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-ANIMACION-2D.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/portrait-beautiful-blonde-barbie-woman-perfect-makeup-tongue-sexy-licking-lip-donuts-earrings.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-ANIMACION-3D.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/sebastian-banasiewcz-CMs6ZGOdyho-unsplash.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-360-.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/vishwajeet-nishad-pc21vhOv-Uo-unsplash.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-FOTOGRAFIA.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1040353575.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/alex-sh-ZsAfhWL6l3c-unsplash.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-4361436.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-4173877.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036415740.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/interior-concept-memphis-design-colorful-armchair-with-console-prop-3d-render_156429-415.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/cement-street-financial-downtown-shanghai-travel.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/rachit-tank-2cFZ_FB08UM-unsplash-1.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/portfolios/random-risk/]]></loc>
-		<lastmod><![CDATA[2026-01-30T15:11:12+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_Apps-1.png]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_4_2.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-199673261.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_3_2.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_team_6_2.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036091890.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-176343593.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/11/stock-photo-1040234435.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_slide_3.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/blurred-silhouette-man-looking-aside_most-1.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/cement-street-financial-downtown-shanghai-travel.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/stock-photo-1036415740.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/back-view-content-creator-working-home-office-during-night-time-video-editor-home-office-1.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/portfolios/stream-shop/]]></loc>
-		<lastmod><![CDATA[2026-01-30T15:09:59+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_VRX-1.png]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_slide_1.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/1212.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/1802.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/114.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/702.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-DISENO-DE-PERSONAJES.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
