@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on Feb 4, 2026 at 12:32 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on Feb 6, 2026 at 17:27 by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
@@ -8,30 +8,46 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/portfolios/share-spark/]]></loc>
-		<lastmod><![CDATA[2026-02-04T17:25:55+00:00]]></lastmod>
+		<loc><![CDATA[/portfolios/stream-shop/]]></loc>
+		<lastmod><![CDATA[2026-02-06T22:07:43+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_IA-1.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_VRX-1.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/IA_portada_principal.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Diseno-sin-titulo-4.jpg.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-AI-EL-RENDER-MALDITO.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/1212.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADAS-PORTAFOLIO-SERVICIOS.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/1802.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/114.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-VIRTUAL-.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-AUMENTADA-.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-ASISTENTE-VIRTUAL.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/portfolios/random-risk/]]></loc>
-		<lastmod><![CDATA[2026-02-04T17:03:24+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-02-05T19:51:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -104,19 +120,7 @@
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_3.png]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_4.png]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_8.png]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_6.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_9.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -128,7 +132,7 @@
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_9.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_3.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -136,45 +140,41 @@
 		</image:image>
 		<image:image>
 			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_4.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_6.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
 				<![CDATA[/webwagner/wp-content/uploads/2022/10/most_logo_partner_2.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolios/stream-shop/]]></loc>
-		<lastmod><![CDATA[2026-02-03T21:33:22+00:00]]></lastmod>
+		<loc><![CDATA[/portfolios/share-spark/]]></loc>
+		<lastmod><![CDATA[2026-02-04T17:25:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_VRX-1.png]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/Panel_IA-1.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://theme.madsparrow.me/most/wp-content/uploads/2022/10/most_slide_1.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/IA_portada_principal.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/1212.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-AI-EL-RENDER-MALDITO.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/1802.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/114.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-VIRTUAL-.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-REALIDAD-AUMENTADA-.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADA-ASISTENTE-VIRTUAL.jpg]]>			</image:loc>
+				<![CDATA[/webwagner/wp-content/uploads/2022/08/PORTADAS-PORTAFOLIO-SERVICIOS.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
